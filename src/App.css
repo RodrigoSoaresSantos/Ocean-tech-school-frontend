@@ -6,31 +6,3 @@
   background: black;
 }
 
-.card {
-  border: 1px solid white;
-  padding: 1rem;
-  border-radius: 1rem;
-  transition: 0.115;
-}
-
-  .card:hover {
-    box-shadow: 0.2rem 0.2rem white;
-    translate: -2px -2px;
-    cursor: pointer;
-
-}
-
-.card h2 {
-  border-left: 1px solid white;
-
-}
-
-.card tag {
-  background-color: white;
-  font-weight: bold;
-  color: black;
-  border: 6px solid white;
-  border-radius: 1rem;
-  margin: 3px;  
-
-}
